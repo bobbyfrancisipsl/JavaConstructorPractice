@@ -1,7 +1,5 @@
 package love.programming;
 
-import java.sql.SQLOutput;
-
 public class Book {
 
     String bookGenre;
